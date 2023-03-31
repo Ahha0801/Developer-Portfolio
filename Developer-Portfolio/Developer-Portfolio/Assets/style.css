@@ -1,0 +1,18 @@
+nav a { display: flex;}
+
+.sidebar{
+    flex:1;
+    background-color: steelblue;
+    text-align: center;
+    width: 20%;
+}
+
+.main-image {
+    height: auto;
+    width: 25vw;
+}
+
+.project-image {
+    height: auto;
+    width: 35vw;
+}
